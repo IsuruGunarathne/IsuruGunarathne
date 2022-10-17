@@ -1,7 +1,7 @@
 [![@isurugunarathne's Holopin board](https://holopin.me/isurugunarathne)](https://holopin.io/@isurugunarathne)
 
 - 👋 Hi, I’m @IsuruGunarathne
-- 🌱 I’m currently learning plagiarism
+- 🌱 I’m currently learning Adoption
 - 💞️ I’m looking to collaborate on plagiarism
 - 📫 How to reach me? try
 
