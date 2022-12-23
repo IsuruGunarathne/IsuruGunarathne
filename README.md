@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @IsuruGunarathne
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Web/Android based projects
-- 📫 How to reach me? try
+- 📫 How to reach me? [email](mailto:isurug.20@cse.mrt.ac.lk)
 
 <!---
 IsuruGunarathne/IsuruGunarathne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
