@@ -11,6 +11,7 @@ I'm Isuru, a final year undergraduate at University of Moratuwa, Currently study
 
 ### Connect with Me
 
+<br/>
 <p align="center">
 <a href="https://www.isurugunarathne.com">
   <img 
@@ -56,6 +57,7 @@ I'm Isuru, a final year undergraduate at University of Moratuwa, Currently study
 
 ### Languages and Tools:
 
+<br/>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,cpp,go,java,kotlin,js,ts,fastapi,react,nextjs,tailwind,nodejs,express,mysql,sqlite,postgres,cassandra,git,docker,kubernetes,terraform&perline=21"
