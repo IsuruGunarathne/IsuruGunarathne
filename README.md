@@ -58,8 +58,7 @@ I'm Isuru, a final year undergraduate at University of Moratuwa, Currently study
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,go,java,js,ts,react,nextjs,nodejs,express,mysql,postgres,cassandra,git,docker,kubernetes,terraform"
-    alt="Tech Stack"
-    style="width: 70%;" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,go,java,js,ts,react,nextjs,nodejs,express,mysql,postgres,cassandra,git,docker,kubernetes,terraform&perline=20"
+    alt="Tech Stack"/>
   </a>
 </p>
