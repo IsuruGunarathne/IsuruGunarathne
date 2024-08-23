@@ -17,7 +17,7 @@ I'm Isuru, a final year undergraduate at University of Moratuwa, Currently study
   <img 
     src="https://img.shields.io/badge/-isurugunarathne.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white" 
     alt="isurugunarathne.com" 
-    style="height: 30px;"
+    style="height: 28px;"
   />
 </a>
 
@@ -25,7 +25,7 @@ I'm Isuru, a final year undergraduate at University of Moratuwa, Currently study
   <img 
     src="https://img.shields.io/badge/-isurug.20@cse.mrt.ac.lk-D14836?style=flat&logo=Gmail&logoColor=white" 
     alt="Email"
-    style="height: 30px; width: auto;"
+    style="height: 28px; width: auto;"
   />
 </a>
 
@@ -33,7 +33,7 @@ I'm Isuru, a final year undergraduate at University of Moratuwa, Currently study
   <img 
     src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" 
     alt="LinkedIn"
-    style="height: 30px; width: auto;"
+    style="height: 28px; width: auto;"
   />
 </a>
 
@@ -41,7 +41,7 @@ I'm Isuru, a final year undergraduate at University of Moratuwa, Currently study
   <img 
     src="https://img.shields.io/badge/-medium-1DA1F2?style=flat&logo=Medium&logoColor=white" 
     alt="Medium"
-    style="height: 30px; width: auto;"
+    style="height: 28px; width: auto;"
   />
 </a>
 
@@ -49,7 +49,7 @@ I'm Isuru, a final year undergraduate at University of Moratuwa, Currently study
   <img 
     src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=X&logoColor=white" 
     alt="Twitter"
-    style="height: 30px; width: auto;"
+    style="height: 28px; width: auto;"
   />
 </a>
 
