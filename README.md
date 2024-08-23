@@ -34,7 +34,7 @@ I'm Isuru, a final year undergraduate at University of Moratuwa, Currently study
 
 <!-- frameworks -->
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Next.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@13.6.0/icons/nextdotjs.svg" style="padding-right:10px;" />
+<img  align="left"  alt="Next.js"  width="26px"  src="https://cdn.jsdelivr.net/npm/simple-icons@13.6.0/icons/nextdotjs.svg" style="padding-right:10px; background-color: white;"/>
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@13.6.0/icons/nodedotjs.svg" style="padding-right:10px;" />
 <img align="left" alt="Express" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@13.6.0/icons/express.svg" style="padding-right:10px;" />
 
