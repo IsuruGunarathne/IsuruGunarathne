@@ -60,7 +60,12 @@ I'm Isuru, a final year undergraduate at University of Moratuwa, Currently study
 <br/>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,go,java,kotlin,js,ts,fastapi,react,nextjs,tailwind,nodejs,express,mysql,sqlite,postgres,cassandra,git,docker,kubernetes,terraform&perline=21"
+    <img src="https://skillicons.dev/icons?i=py,cpp,go,java,kotlin,js,ts,fastapi,react,nextjs,tailwind,nodejs,express,mysql,sqlite,postgres,cassandra,git,docker,kubernetes,terraform&perline=18"
+    style="width: 80%;"
     alt="Tech Stack"/>
   </a>
 </p>
+
+### GitHub Stats
+
+![Isuru's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsuruGunarathne&show_icons=true&theme=radical)
