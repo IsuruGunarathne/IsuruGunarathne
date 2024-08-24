@@ -69,9 +69,8 @@ I'm Isuru, a final year undergraduate at University of Moratuwa, Currently study
 ### GitHub Stats
 
 <br/>
-<centre>
-  <div style="flex: 1; display: flex; flex-direction: row; flex-wrap:wrap; justify-content: center; align-items: center;">
+
+<div align="center" style="flex: 1; display: flex; flex-direction: row; flex-wrap:wrap; justify-content: center; align-items: center;">
   <img alt="Isuru's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IsuruGunarathne&show_icons=true&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
   <img alt="Isuru's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsuruGunarathne&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
-  </div>
-</centre>
+</div>
