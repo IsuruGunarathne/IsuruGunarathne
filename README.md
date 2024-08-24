@@ -69,3 +69,4 @@ I'm Isuru, a final year undergraduate at University of Moratuwa, Currently study
 ### GitHub Stats
 
 ![Isuru's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsuruGunarathne&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsuruGunarathne&layout=compact&theme=radical)
