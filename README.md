@@ -63,7 +63,7 @@ I'm Isuru, a Software Engineer at Sysco LABS Sri Lanka. I graduated from the Uni
 <br/>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,go,java,kotlin,js,ts,fastapi,react,nextjs,tailwind,nodejs,express,mysql,sqlite,postgres,cassandra,git,docker,kubernetes,terraform&perline=18"
+    <img src="https://skillicons.dev/icons?i=py,cpp,go,java,kotlin,js,ts,fastapi,spring,react,nextjs,tailwind,nodejs,express,mysql,sqlite,postgres,cassandra,kafka,git,docker,kubernetes,terraform,aws,digitalocean,apache&perline=18"
     style="width: 80%;"
     alt="Tech Stack"/>
   </a>
