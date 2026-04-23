@@ -2,7 +2,7 @@
 
 ## Hey there! 👋
 
-I'm Isuru, a Software Engineer at Sysco LABS Sri Lanka. I graduated from the University of Moratuwa with a degree in Computer Science and Engineering.
+I'm Isuru, a Software Engineer at WSO2. I graduated from the University of Moratuwa with a degree in Computer Science and Engineering.
 
 <!-- - 👋 I’m @IsuruGunarathne
 - 🌱 I’m currently learning React
@@ -77,3 +77,6 @@ I'm Isuru, a Software Engineer at Sysco LABS Sri Lanka. I graduated from the Uni
   <img alt="Isuru's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IsuruGunarathne&show_icons=true&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
   <img alt="Isuru's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsuruGunarathne&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
 </div>
+
+### Badges
+[![committers.top badge](https://user-badge.committers.top/sri_lanka/IsuruGunarathne.svg)](https://user-badge.committers.top/sri_lanka/IsuruGunarathne)
